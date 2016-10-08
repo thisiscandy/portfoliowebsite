@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Peishan's Portfolio Website Development Process
 
 ## Getting Started
@@ -22,3 +23,6 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 ## Copyright and License
 
 Copyright @2016
+=======
+# portfoliowebsite
+>>>>>>> fa6df97224a1b0eb706d3742f16ca7c03f5c1bb5
